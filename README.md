@@ -18,7 +18,7 @@ The model automatically handles categorical inputs and calculates **run differen
 
 Kaggle: https://www.kaggle.com/lokendra
 
-GitHub: https://github.com/lokendra
+GitHub: https://github.com/Guddubhaiya07
 ## **🛠 Features**
 
 1. **Single Match Prediction**
